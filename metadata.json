@@ -1,0 +1,6 @@
+{
+  "name": "LumaVault Studio",
+  "description": "100% offline-first AI photo and video editing studio with strict identity preservation, local background replacement, virtual styling, multi-track audio editing, and high-resolution local export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

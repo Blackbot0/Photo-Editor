@@ -1,0 +1,15 @@
+{
+  "appId": "com.lumavault.studio",
+  "appName": "LumaVault Studio",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "android": {
+    "backgroundColor": "#0B0C0E",
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
